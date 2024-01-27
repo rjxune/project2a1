@@ -1,0 +1,201 @@
+.me{
+    height: 200px;
+    width:200px ;
+    border-radius: 50%;
+    position: relative;
+      box-shadow:5px 10px  chocolate
+   
+  
+
+    
+}
+.skill{
+    height: 300px;
+    width:200px ;
+    border-radius: 5%;
+    
+}
+.rider{
+    height: 300px;
+    width:200px ;
+    border-radius: 5%;
+    
+
+}
+h2, h3, p{
+    font-family: 'Merriweather', serif;
+} 
+.p{
+    color: ;
+}
+
+body{
+    background-color:#ADD8E6;
+    padding: 0%;
+    margin: 0%;
+}
+.ronell{
+    display: flex;
+    justify-content: center;
+    
+
+    
+   
+}
+.shark{
+    float: left;
+    height: 400px;
+    position: absolute;
+    padding-left: 2px;
+}
+.diver{
+    height: 100px;
+    float: right;
+    padding-top: 100px;
+    padding-right: 250px;
+}
+.hero{
+    
+    height: 500px;
+    color:	#301934;
+    font-size: xx-large;
+    
+}
+.bubble{
+    height: 100px;
+    float: right;
+    position:absolute;
+    padding-left:1109px;
+}
+ .about1{
+    height: 500px;
+    background-color:#FAF9F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: 	#301934;
+    font-size: xx-large;
+
+ 
+ }
+ .walking{
+   float: left;
+   color: black;
+   font-size: large;
+ }
+ 
+ .myskills{
+    color:	#301934;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top:25px
+
+ }
+ .card{
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+    height:10  vh ;
+    gap: 1rem;
+    padding-bottom:; 
+ }
+ .mio{
+    float: right;
+    padding-right:25px;
+ }
+ .code{
+    float:left;
+    padding-left: 25px;
+    padding-bottom: 200px;
+ }
+
+ .elevate{
+    background-color: #FAF9F6;
+    height: 700px;
+    padding-top: 100px;
+ }
+ .Contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: 	#301934;
+    font-size: xx-large;
+   padding-top: 25px;
+
+
+ }
+
+ .social{
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+
+ }
+ button{
+    background-color: peachpuff;
+    border-radius: 12px;
+    color: brown;
+ }
+
+ footer{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-weight: bolder;
+   font-size:25 ;
+ }
+ @media only screen and (max-width: 600px) {
+  .shark{
+    height: 200px;
+  }
+  .diver{
+    height: 70px;
+    position: relative;
+    left: 200px;
+   
+   
+  }
+  .bubble{
+   height: 50px;
+   position:relative;
+   bottom:150px;
+  
+ 
+   
+   
+  }
+  .elevate{
+    display: flex;
+    flex-direction: column;
+    height:1000px;
+    
+  }
+  
+  .mio{
+    padding-left: 27px;
+    
+  }
+  
+  {
+    margin-top
+  }
+  
+  
+ }
+ 
+ 
+  
+
+
+
+ 
+    
+
+
+
+
+
